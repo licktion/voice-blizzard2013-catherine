@@ -1,0 +1,4 @@
+task copyTextGrids(type: Copy) {
+    from project(':blizzard2013-data').projectDir
+    into buildDir
+}

@@ -1,4 +1,4 @@
-task copyRawData(type: Copy) {
+task copyWav(type: Copy) {
     from(project(':blizzard2013-data').projectDir) {
         include 'wav/*.wav'
         rename {
@@ -6,6 +6,20 @@ task copyRawData(type: Copy) {
             assert m.matches(): it
             sprintf("%s%03d%s", m[0][1], m[0][2] as int, m[0][3]).replaceAll('-', '_')
         }
+    }
+    into buildDir
+}
+
+task copyPitch(type: Copy) {
+    from(project(':blizzard2013-data').projectDir) {
+        include 'pm/*.Pitch'
+    }
+    into buildDir
+}
+
+task copyLabels(type: Copy) {
+    from(project(':blizzard2013-data').projectDir) {
+        include 'lab/*.lab'
     }
     into buildDir
 }

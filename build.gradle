@@ -9,3 +9,19 @@ task copyRawData(type: Copy) {
     }
     into buildDir
 }
+
+task extractTextFiles {
+    def txtFile = file("src/raw/resources/all.txt")
+    def destDir = file("$buildDir/text")
+    outputs.dir destDir
+    inputs.files txtFile
+    doFirst {
+        destDir.mkdirs()
+    }
+    doLast {
+        txtFile.eachLine {
+            def (basename, content) = it.split(":", 2)
+            file("$destDir/${basename}.txt").text = content.trim()
+        }
+    }
+}

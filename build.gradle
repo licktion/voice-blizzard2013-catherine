@@ -1,4 +1,11 @@
-task copyTextGrids(type: Copy) {
-    from project(':blizzard2013-data').projectDir
+task copyRawData(type: Copy) {
+    from(project(':blizzard2013-data').projectDir) {
+        include 'wav/*.wav'
+        rename {
+            def m = (it =~ /(.+-)(\d+)(\.wav)/)
+            assert m.matches(): it
+            sprintf("%s%03d%s", m[0][1], m[0][2] as int, m[0][3]).replaceAll('-', '_')
+        }
+    }
     into buildDir
 }

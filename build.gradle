@@ -1,3 +1,5 @@
+apply plugin: 'base'
+
 task copyWav(type: Copy) {
     from(project(':blizzard2013-data').projectDir) {
         include 'wav/*.wav'

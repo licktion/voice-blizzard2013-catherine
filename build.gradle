@@ -41,3 +41,7 @@ task extractTextFiles {
         }
     }
 }
+
+task prepareVoicebuilding {
+    dependsOn copyWav, copyPitch, copyLabels, extractTextFiles
+}

@@ -14,7 +14,7 @@ CA_BB_01_013: As soon as I was old enough to eat grass my mother used to go out 
 CA_BB_01_014: There were six young colts in the meadow besides me; they were older than I was; some were nearly as large as grown-up horses.
 CA_BB_01_015: I used to run with them, and had great fun; we used to gallop all together round and round the field as hard as we could go.
 CA_BB_01_016: Sometimes we had rather rough play, for they would frequently bite and kick as well as gallop.
-CA_BB_01_017: One day, when there was a good deal of kicking, my mother whinnied to me to come to her, and then she said
+CA_BB_01_017: One day, when there was a good deal of kicking, my mother whinnied to me to come to her, and then she said: "I wish you to pay attention to what I am going to say to you.
 CA_BB_01_018: The colts who live here are very good colts, but they are cart-horse colts, and of course they have not learned manners.
 CA_BB_01_019: You have been well-bred and well-born; your father has a great name in these parts, and your grandfather won the cup two years at the Newmarket races; your grandmother had the sweetest temper of any horse I ever knew, and I think you have never seen me kick or bite.
 CA_BB_01_020: I hope you will grow up gentle and good, and never learn bad ways; do your work with a good will, lift your feet up well when you trot, and never bite or kick even in play."
@@ -167,7 +167,7 @@ CA_BB_04_025: I said, "Yes."
 CA_BB_04_026: "Well, then," he said, "I hope you are good-tempered; I do not like any one next door who bites."
 CA_BB_04_027: Just then a horse's head looked over from the stall beyond; the ears were laid back, and the eye looked rather ill-tempered.
 CA_BB_04_028: This was a tall chestnut mare, with a long handsome neck.
-CA_BB_04_029: She looked across to me and said
+CA_BB_04_029: She looked across to me and said: "So it is you who have turned me out of my box; it is a very strange thing for a colt like you to come and turn a lady out of her own home."
 CA_BB_04_030: "I beg your pardon," I said, "I have turned no one out; the man who brought me put me here, and I had nothing to do with it; and as to my being a colt, I am turned four years old and am a grown-up horse.
 CA_BB_04_031: I never had words yet with horse or mare, and it is my wish to live at peace."
 CA_BB_04_032: "Well," she said, "we shall see.
@@ -284,7 +284,7 @@ CA_BB_07_023: His son was a strong, tall, bold man; they called him Samson, and 
 CA_BB_07_024: There was no gentleness in him, as there was in his father, but only hardness, a hard voice, a hard eye, a hard hand; and I felt from the first that what he wanted was to wear all the spirit out of me, and just make me into a quiet, humble, obedient piece of horseflesh.
 CA_BB_07_025: 'Horseflesh'!
 CA_BB_07_026: Yes, that is all that he thought about," and Ginger stamped her foot as if the very thought of him made her angry.
-CA_BB_07_027: Then she went on
+CA_BB_07_027: Then she went on: "If I did not do exactly what he wanted he would get put out, and make me run round with that long rein in the training field till he had tired me out.
 CA_BB_07_028: I think he drank a good deal, and I am quite sure that the oftener he drank the worse it was for me.
 CA_BB_07_029: One day he had worked me hard in every way he could, and when I lay down I was tired, and miserable, and angry; it all seemed so hard.
 CA_BB_07_030: The next morning he came for me early, and ran me round again for a long time.
@@ -303,7 +303,7 @@ CA_BB_07_042: I saw the other colts led in, and I knew they were having a good f
 CA_BB_07_043: "At last, just as the sun went down, I saw the old master come out with a sieve in his hand.
 CA_BB_07_044: He was a very fine old gentleman with quite white hair, but his voice was what I should know him by among a thousand.
 CA_BB_07_045: It was not high, nor yet low, but full, and clear, and kind, and when he gave orders it was so steady and decided that every one knew, both horses and men, that he expected to be obeyed.
-CA_BB_07_046: He came quietly along, now and then shaking the oats about that he had in the sieve, and speaking cheerfully and gently to me
+CA_BB_07_046: He came quietly along, now and then shaking the oats about that he had in the sieve, and speaking cheerfully and gently to me: 'Come along, lassie, come along, lassie; come along, come along.'
 CA_BB_07_047: I stood still and let him come up; he held the oats to me, and I began to eat without fear; his voice took all my fear away.
 CA_BB_07_048: He stood by, patting and stroking me while I was eating, and seeing the clots of blood on my side he seemed very vexed.
 CA_BB_07_049: 'Poor lassie!
@@ -374,7 +374,7 @@ CA_BB_09_002: Merrylegs
 CA_BB_09_003: The vicar, Mr. Blomefield, had a large family of boys and girls; sometimes they used to come and play with Miss Jessie and Flora.
 CA_BB_09_004: One of the girls was as old as Miss Jessie; two of the boys were older, and there were several little ones.
 CA_BB_09_005: When they came there was plenty of work for Merrylegs, for nothing pleased them so much as getting on him by turns and riding him all about the orchard and the home paddock, and this they would do by the hour together.
-CA_BB_09_006: One afternoon he had been out with them a long time, and when James brought him in and put on his halter he said
+CA_BB_09_006: One afternoon he had been out with them a long time, and when James brought him in and put on his halter he said: "There, you rogue, mind how you behave yourself, or we shall get into trouble."
 CA_BB_09_007: "What have you been doing, Merrylegs?"
 CA_BB_09_008: I asked.
 CA_BB_09_009: "Oh!"
@@ -474,7 +474,7 @@ CA_BB_10_063: Of course after this accident a stout white rail was put up that m
 CA_BB_10_064: When our master's carriage was overturned, before you came here, it was said that if the lamp on the left side had not gone out, John would have seen the great hole that the road-makers had left; and so he might, but if old Colin had not had blinkers on he would have seen it, lamp or no lamp, for he was far too knowing an old horse to run into danger.
 CA_BB_10_065: As it was, he was very much hurt, the carriage was broken, and how John escaped nobody knew."
 CA_BB_10_066: "I should say," said Ginger, curling her nostril, "that these men, who are so wise, had better give orders that in the future all foals should be born with their eyes set just in the middle of their foreheads, instead of on the side; they always think they can improve upon nature and mend what God has made."
-CA_BB_10_067: Things were getting rather sore again, when Merrylegs held up his knowing little face and said, "I'll tell you a secret
+CA_BB_10_067: Things were getting rather sore again, when Merrylegs held up his knowing little face and said, "I'll tell you a secret: I believe John does not approve of blinkers; I heard him talking with master about it one day.
 CA_BB_10_068: The master said that 'if horses had been used to them, it might be dangerous in some cases to leave them off'; and John said he thought it would be a good thing if all colts were broken in without blinkers, as was the case in some foreign countries.
 CA_BB_10_069: So let us cheer up, and have a run to the other end of the orchard; I believe the wind has blown down some apples, and we might just as well eat them as the slugs."
 CA_BB_10_070: Merrylegs could not be resisted, so we broke off our long conversation, and got up our spirits by munching some very sweet apples which lay scattered on the grass.
@@ -504,7 +504,7 @@ CA_BB_11_023: But that has little to do with it.
 CA_BB_11_024: I must say, Mr. Sawyer, that a more unmanly, brutal treatment of a little pony it was never my painful lot to witness, and by giving way to such passion you injure your own character as much, nay more, than you injure your horse; and remember, we shall all have to be judged according to our works, whether they be toward man or toward beast."
 CA_BB_11_025: Master rode me home slowly, and I could tell by his voice how the thing had grieved him.
 CA_BB_11_026: He was just as free to speak to gentlemen of his own rank as to those below him; for another day, when we were out, we met a Captain Langley, a friend of our master's; he was driving a splendid pair of grays in a kind of break.
-CA_BB_11_027: After a little conversation the captain said
+CA_BB_11_027: After a little conversation the captain said: "What do you think of my new team, Mr. Gordon?
 CA_BB_11_028: You know, you are the judge of horses in these parts, and I should like your opinion."
 CA_BB_11_029: The master backed me a little, so as to get a good view of them.
 CA_BB_11_030: "They are an uncommonly handsome pair," he said, "and if they are as good as they look I am sure you need not wish for anything better; but I see you still hold that pet scheme of yours for worrying your horses and lessening their power."
@@ -515,7 +515,7 @@ CA_BB_11_034: "So do I," said master, "as well as any man, but I don't like to s
 CA_BB_11_035: Now, you are a military man, Langley, and no doubt like to see your regiment look well on parade, 'heads up', and all that; but you would not take much credit for your drill if all your men had their heads tied to a backboard!
 CA_BB_11_036: It might not be much harm on parade, except to worry and fatigue them; but how would it be in a bayonet charge against the enemy, when they want the free use of every muscle, and all their strength thrown forward?
 CA_BB_11_037: I would not give much for their chance of victory.
-CA_BB_11_038: And it is just the same with horses
+CA_BB_11_038: And it is just the same with horses: you fret and worry their tempers, and decrease their power; you will not let them throw their weight against their work, and so they have to do too much with their joints and muscles, and of course it wears them up faster.
 CA_BB_11_039: You may depend upon it, horses were intended to have their heads free, as free as men's are; and if we could act a little more according to common sense, and a good deal less according to fashion, we should find many things work easier; besides, you know as well as I that if a horse makes a false step, he has much less chance of recovering himself if his head and neck are fastened back.
 CA_BB_11_040: And now," said the master, laughing, "I have given my hobby a good trot out, can't you make up your mind to mount him, too, captain?
 CA_BB_11_041: Your example would go a long way."
@@ -617,7 +617,7 @@ CA_BB_13_035: The boys rushed in from the playground, and the master ran in from
 CA_BB_13_036: Of course I said fair and square at once what I had done, and why; then I showed the master the flies, some crushed and some crawling about helpless, and I showed him the wings on the window sill.
 CA_BB_13_037: I never saw him so angry before; but as Bill was still howling and whining, like the coward that he was, he did not give him any more punishment of that kind, but set him up on a stool for the rest of the afternoon, and said that he should not go out to play for that week.
 CA_BB_13_038: Then he talked to all the boys very seriously about cruelty, and said how hard-hearted and cowardly it was to hurt the weak and the helpless; but what stuck in my mind was this, he said that cruelty was the devil's own trade-mark, and if we saw any one who took pleasure in cruelty we might know who he belonged to, for the devil was a murderer from the beginning, and a tormentor to the end.
-CA_BB_13_039: On the other hand, where we saw people who loved their neighbors, and were kind to man and beast, we might know that was God's mark."
+CA_BB_13_039: On the other hand, where we saw people who loved their neighbors, and were kind to man and beast, we might know that was God's mark. For God is love."
 CA_BB_13_040: "Your master never taught you a truer thing," said John; "there is no religion without love, and people may talk as much as they like about their religion, but if it does not teach them to be good and kind to man and beast it is all a sham all a sham, James, and it won't stand when things come to be turned inside out and put down for what they are at the end."
 CA_BB_14_001: Chapter 14
 CA_BB_14_002: James Howard
@@ -743,7 +743,7 @@ CA_BB_16_030: A tall, broad man stepped forward and took me, and James darted ba
 CA_BB_16_031: I set up a shrill whinny as I saw him go.
 CA_BB_16_032: Ginger told me afterward that whinny was the best thing I could have done for her, for had she not heard me outside she would never have had courage to come out.
 CA_BB_16_033: There was much confusion in the yard; the horses being got out of other stables, and the carriages and gigs being pulled out of houses and sheds, lest the flames should spread further.
-CA_BB_16_034: On the other side the yard windows were thrown up, and people were shouting all sorts of things; but I kept my eye fixed on the stable door, where the smoke poured out thicker than ever, and I could see flashes of red light; presently I heard above all the stir and din a loud, clear voice, which I knew was master's
+CA_BB_16_034: On the other side the yard windows were thrown up, and people were shouting all sorts of things; but I kept my eye fixed on the stable door, where the smoke poured out thicker than ever, and I could see flashes of red light; presently I heard above all the stir and din a loud, clear voice, which I knew was master's: "James Howard!
 CA_BB_16_035: James Howard!
 CA_BB_16_036: Are you there?"
 CA_BB_16_037: There was no answer, but I heard a crash of something falling in the stable, and the next moment I gave a loud, joyful neigh, for I saw James coming through the smoke leading Ginger with him; she was coughing violently, and he was not able to speak.
@@ -923,7 +923,7 @@ CA_BB_19_019: But you see, I am sore myself; that horse is the pride of my heart
 CA_BB_19_020: But if you think I am hard on the boy I will try to give him a good word to-morrow that is, I mean if Beauty is better."
 CA_BB_19_021: "Well, John, thank you.
 CA_BB_19_022: I knew you did not wish to be too hard, and I am glad you see it was only ignorance."
-CA_BB_19_023: John's voice almost startled me as he answered
+CA_BB_19_023: John's voice almost startled me as he answered: "Only ignorance!
 CA_BB_19_024: only ignorance!
 CA_BB_19_025: how can you talk about only ignorance?
 CA_BB_19_026: Don't you know that it is the worst thing in the world, next to wickedness?
@@ -1221,7 +1221,7 @@ CA_BB_24_065: Blantyre groaned, "Now, Auster, do your best!"
 CA_BB_24_066: He gave me a steady rein.
 CA_BB_24_067: I gathered myself well together and with one determined leap cleared both dike and bank.
 CA_BB_24_068: Motionless among the heather, with her face to the earth, lay my poor young mistress.
-CA_BB_24_069: Blantyre kneeled down and called her name
+CA_BB_24_069: Blantyre kneeled down and called her name: there was no sound.
 CA_BB_24_070: Gently he turned her face upward
 CA_BB_24_071: "Annie, dear Annie, do speak!"
 CA_BB_24_072: But there was no answer.
@@ -1575,7 +1575,7 @@ CA_BB_30_017: The grass food, though very good, was not the thing to keep up my 
 CA_BB_30_018: However, I could not complain, nor make known my wants.
 CA_BB_30_019: So it went on for about two months; and I wondered that my master did not see that something was the matter.
 CA_BB_30_020: However, one afternoon he rode out into the country to see a friend of his, a gentleman farmer, who lived on the road to Wells.
-CA_BB_30_021: This gentleman had a very quick eye for horses; and after he had welcomed his friend he said, casting his eye over me
+CA_BB_30_021: This gentleman had a very quick eye for horses; and after he had welcomed his friend he said, casting his eye over me: "It seems to me, Barry, that your horse does not look so well as he did when you first had him; has he been well?"
 CA_BB_30_022: "Yes, I believe so," said my master; "but he is not nearly so lively as he was; my groom tells me that horses are always dull and weak in the autumn, and that I must expect it."
 CA_BB_30_023: "Autumn, fiddlesticks!" said the farmer.
 CA_BB_30_024: "Why, this is only August; and with your light work and good food he ought not to go down like this, even if it was autumn.
@@ -1622,14 +1622,14 @@ CA_BB_31_019: "Well, sir, now you mention it, I think the drain does sometimes s
 CA_BB_31_020: "Then send for the bricklayer and have it seen to," said his master.
 CA_BB_31_021: "Yes, sir, I will."
 CA_BB_31_022: The bricklayer came and pulled up a great many bricks, but found nothing amiss; so he put down some lime and charged the master five shillings, and the smell in my box was as bad as ever.
-CA_BB_31_023: But that was not all
+CA_BB_31_023: But that was not all: standing as I did on a quantity of moist straw my feet grew unhealthy and tender, and the master used to say: "I don't know what is the matter with this horse; he goes very fumble-footed. I am sometimes afraid he will stumble."
 CA_BB_31_024: "Yes, sir," said Alfred, "I have noticed the same myself, when I have exercised him."
 CA_BB_31_025: Now the fact was that he hardly ever did exercise me, and when the master was busy I often stood for days together without stretching my legs at all, and yet being fed just as high as if I were at hard work.
 CA_BB_31_026: This often disordered my health, and made me sometimes heavy and dull, but more often restless and feverish.
 CA_BB_31_027: He never even gave me a meal of green meal or a bran mash, which would have cooled me, for he was altogether as ignorant as he was conceited;
 CA_BB_31_028: and then, instead of exercise or change of food, I had to take horse balls and draughts; which, beside the nuisance of having them poured down my throat, used to make me feel ill and uncomfortable.
 CA_BB_31_029: One day my feet were so tender that, trotting over some fresh stones with my master on my back, I made two such serious stumbles that, as he came down Lansdown into the city, he stopped at the farrier's, and asked him to see what was the matter with me.
-CA_BB_31_030: The man took up my feet one by one and examined them; then standing up and dusting his hands one against the other, he said
+CA_BB_31_030: The man took up my feet one by one and examined them; then standing up and dusting his hands one against the other, he said: "Your horse has got the 'thrush', and badly, too; his feet are very tender; it is fortunate that he has not been down.
 CA_BB_31_031: I wonder your groom has not seen to it before.
 CA_BB_31_032: This is the sort of thing we find in foul stables, where the litter is never properly cleaned out.
 CA_BB_31_033: If you will send him here to-morrow I will attend to the hoof, and I will direct your man how to apply the liniment which I will give him."
@@ -1811,7 +1811,7 @@ CA_BB_35_002: Jerry Barker
 CA_BB_35_003: I never knew a better man than my new master.
 CA_BB_35_004: He was kind and good, and as strong for the right as John Manly; and so good-tempered and merry that very few people could pick a quarrel with him.
 CA_BB_35_005: He was very fond of making little songs, and singing them to himself.
-CA_BB_35_006: One he was very fond of was this
+CA_BB_35_006: One he was very fond of was this: Come father and mother and sister and brother come all of you, turn to and help one another.
 CA_BB_35_007: And so they did; Harry was as clever at stable-work as a much older boy, and always wanted to do what he could.
 CA_BB_35_008: Then Polly and Dolly used to come in the morning to help with the cab to brush and beat the cushions, and rub the glass, while Jerry was giving us a cleaning in the yard, and Harry was rubbing the harness.
 CA_BB_35_009: There used to be a great deal of laughing and fun between them, and it put Captain and me in much better spirits than if we had heard scolding and hard words.
@@ -1826,7 +1826,7 @@ CA_BB_35_017: "I will take you at the regular pace, gentlemen; shillings don't p
 CA_BB_35_018: Larry's cab was standing next to ours; he flung open the door, and said, "I'm your man, gentlemen! take my cab, my horse will get you there all right;"
 CA_BB_35_019: and as he shut them in, with a wink toward Jerry, said, "It's against his conscience to go beyond a jog-trot."
 CA_BB_35_020: Then slashing his jaded horse, he set off as hard as he could.
-CA_BB_35_021: Jerry patted me on the neck
+CA_BB_35_021: Jerry patted me on the neck: "No, Jack, a shilling would not pay for that sort of thing, would it, old boy?"
 CA_BB_35_022: Although Jerry was determinedly set against hard driving, to please careless people, he always went a good fair pace, and was not against putting on the steam, as he said, if only he knew why.
 CA_BB_35_023: I well remember one morning, as we were on the stand waiting for a fare, a young man, carrying a heavy portmanteau, trod on a piece of orange peel which lay on the pavement, and fell down with great force.
 CA_BB_35_024: Jerry was the first to run and lift him up.
@@ -1893,7 +1893,7 @@ CA_BB_36_005: "Good-morning, Mr. Barker," said the gentleman.
 CA_BB_36_006: "I should be glad to make some arrangements with you for taking Mrs. Briggs regularly to church on Sunday mornings.
 CA_BB_36_007: We go to the New Church now, and that is rather further than she can walk."
 CA_BB_36_008: "Thank you, sir," said Jerry, "but I have only taken out a six-days' license,* and therefore I could not take a fare on a Sunday; it would not be legal."
-CA_BB_36_009: * A few years since the annual charge for a cab license was very much reduced, and the difference between the six and seven days' cabs was abolished.
+CA_BB_36_009: Footnote. A few years since the annual charge for a cab license was very much reduced, and the difference between the six and seven days' cabs was abolished. End of footnote.
 CA_BB_36_010: "Oh!" said the other, "I did not know yours was a six-days' cab; but of course it would be very easy to alter your license.
 CA_BB_36_011: I would see that you did not lose by it; the fact is, Mrs. Briggs very much prefers you to drive her."
 CA_BB_36_012: "I should be glad to oblige the lady, sir, but I had a seven-days' license once, and the work was too hard for me, and too hard for my horses.
@@ -1949,7 +1949,7 @@ CA_BB_36_061: "If religion was good for anything," said Jones, "it would prevent
 CA_BB_36_062: why, if it was not for the church and chapel-goers it would be hardly worth while our coming out on a Sunday.
 CA_BB_36_063: But they have their privileges, as they call them, and I go without.
 CA_BB_36_064: I shall expect them to answer for my soul, if I can't get a chance of saving it."
-CA_BB_36_065: Several of the men applauded this, till Jerry said
+CA_BB_36_065: Several of the men applauded this, till Jerry said: "That may sound well enough, but it won't do; 
 CA_BB_36_066: every man must look after his own soul;
 CA_BB_36_067: you can't lay it down at another man's door like a foundling and expect him to take care of it;
 CA_BB_36_068: and don't you see, if you are always sitting on your box waiting for a fare, they will say, 'If we don't take him some one else will, and he does not look for any Sunday.'
@@ -1969,7 +1969,7 @@ CA_BB_37_004: "It has all come right, Jerry; Mrs. Briggs sent her servant this a
 CA_BB_37_005: I said, 'Yes, I thought so, but we supposed she employed some one else now.'"
 CA_BB_37_006: "'Well,' said he, 'the real fact is, master was put out because Mr. Barker refused to come on Sundays, and he has been trying other cabs, but there's something wrong with them all; some drive too fast, and some too slow, and the mistress says there is not one of them so nice and clean as yours, and nothing will suit her but Mr. Barker's cab again.'"
 CA_BB_37_007: Polly was almost out of breath, and Jerry broke out into a merry laugh.
-CA_BB_37_008: "'All come right some day or night'
+CA_BB_37_008: "'All come right some day or night': you were right, my dear; you generally are.
 CA_BB_37_009: Run in and get the supper, and I'll have Jack's harness off and make him snug and happy in no time."
 CA_BB_37_010: After this Mrs. Briggs wanted Jerry's cab quite as often as before, never, however, on a Sunday;
 CA_BB_37_011: but there came a day when we had Sunday work, and this was how it happened.
@@ -2039,7 +2039,7 @@ CA_BB_38_035: One day he and another gentleman took our cab; they stopped at a s
 CA_BB_38_036: A little ahead of us on the other side of the street a cart with two very fine horses was standing before some wine vaults; the carter was not with them, and I cannot tell how long they had been standing, but they seemed to think they had waited long enough, and began to move off.
 CA_BB_38_037: Before they had gone many paces the carter came running out and caught them.
 CA_BB_38_038: He seemed furious at their having moved, and with whip and rein punished them brutally, even beating them about the head.
-CA_BB_38_039: Our gentleman saw it all, and stepping quickly across the street, said in a decided voice
+CA_BB_38_039: Our gentleman saw it all, and stepping quickly across the street, said in a decided voice: "If you don't stop that directly, I'll have you summoned for leaving your horses, and for brutal conduct."
 CA_BB_38_040: The man, who had clearly been drinking, poured forth some abusive language, but he left off knocking the horses about, and taking the reins, got into his cart;
 CA_BB_38_041: meantime our friend had quietly taken a note-book from his pocket, and looking at the name and address painted on the cart, he wrote something down.
 CA_BB_38_042: "What do you want with that?" growled the carter, as he cracked his whip and was moving on.
@@ -2059,15 +2059,15 @@ CA_BB_39_004: my driver was my owner, and it was in his interest to treat me wel
 CA_BB_39_005: but there were a great many horses which belonged to the large cab-owners, who let them out to their drivers for so much money a day.
 CA_BB_39_006: As the horses did not belong to these men the only thing they thought of was how to get their money out of them, first, to pay the master, and then to provide for their own living; and a dreadful time some of these horses had of it.
 CA_BB_39_007: Of course, I understood but little, but it was often talked over on the stand, and the governor, who was a kind-hearted man and fond of horses, would sometimes speak up if one came in very much jaded or ill-used.
-CA_BB_39_008: One day a shabby, miserable-looking driver, who went by the name of "Seedy Sam", brought in his horse looking dreadfully beat, and the governor said
-CA_BB_39_009: The man flung his tattered rug over the horse, turned full round upon the Governor and said in a voice that sounded almost desperate
+CA_BB_39_008: One day a shabby, miserable-looking driver, who went by the name of "Seedy Sam", brought in his horse looking dreadfully beat, and the governor said: "You and your horse look more fit for the police station than for this rank."
+CA_BB_39_009: The man flung his tattered rug over the horse, turned full round upon the Governor and said in a voice that sounded almost desperate: "If the police have any business with the matter it ought to be with the masters who charge us so much, or with the fares that are fixed so low.
 CA_BB_39_010: If a man has to pay eighteen shillings a day for the use of a cab and two horses, as many of us have to do in the season, and must make that up before we earn a penny for ourselves I say 'tis more than hard work; nine shillings a day to get out of each horse before you begin to get your own living.
 CA_BB_39_011: You know that's true, and if the horses don't work we must starve, and I and my children have known what that is before now.
 CA_BB_39_012: I've six of 'em, and only one earns anything; I am on the stand fourteen or sixteen hours a day, and I haven't had a Sunday these ten or twelve weeks; you know Skinner never gives a day if he can help it, and if I don't work hard, tell me who does!
 CA_BB_39_013: I want a warm coat and a mackintosh, but with so many to feed how can a man get it?
 CA_BB_39_014: I had to pledge my clock a week ago to pay Skinner, and I shall never see it again."
 CA_BB_39_015: Some of the other drivers stood round nodding their heads and saying he was right.
-CA_BB_39_016: The man went on
+CA_BB_39_016: The man went on: "You that have your own horses and cabs, or drive for good masters, have a chance of getting on and a chance of doing right; I haven't.
 CA_BB_39_017: We can't charge more than sixpence a mile after the first, within the four-mile radius.
 CA_BB_39_018: This very morning I had to go a clear six miles and only took three shillings.
 CA_BB_39_019: I could not get a return fare, and had to come all the way back;
@@ -2092,7 +2092,7 @@ CA_BB_39_037: The governor had stood with both his hands in his pockets;
 CA_BB_39_038: now he took his handkerchief out of his hat and wiped his forehead.
 CA_BB_39_039: "You've beaten me, Sam," he said, "for it's all true, and I won't cast it up to you any more about the police;
 CA_BB_39_040: it was the look in that horse's eye that came over me.
-CA_BB_39_041: It is hard lines for man and it is hard lines for beast, and who's to mend it I don't know
+CA_BB_39_041: It is hard lines for man and it is hard lines for beast, and who's to mend it I don't know: but anyway you might tell the poor beast that you were sorry to take it out of him in that way.
 CA_BB_39_042: Sometimes a kind word is all we can give 'em, poor brutes, and 'tis wonderful what they do understand."
 CA_BB_39_043: A few mornings after this talk a new man came on the stand with Sam's cab.
 CA_BB_39_044: "Halloo!" said one, "what's up with Seedy Sam?"
@@ -2209,7 +2209,7 @@ CA_BB_42_018: "Those naughty boys," she sobbed, "have thrown the dirt all over m
 CA_BB_42_019: "They called her a little 'blue' ragamuffin, father," said Harry, who ran in looking very angry; "but I have given it to them; they won't insult my sister again.
 CA_BB_42_020: I have given them a thrashing they will remember; a set of cowardly, rascally 'orange' blackguards."
 CA_BB_42_021: Jerry kissed the child and said, "Run in to mother, my pet, and tell her I think you had better stay at home to-day and help her."
-CA_BB_42_022: Then turning gravely to Harry
+CA_BB_42_022: Then turning gravely to Harry: "My boy, I hope you will always defend your sister, and give anybody who insults her a good thrashing that is as it should be; but mind, I won't have any election blackguarding on my premises.
 CA_BB_42_023: There are as many 'blue' blackguards as there are 'orange', and as many white as there are purple, or any other color, and I won't have any of my family mixed up with it.
 CA_BB_42_024: Even women and children are ready to quarrel for the sake of a color, and not one in ten of them knows what it is about."
 CA_BB_42_025: "Why, father, I thought blue was for Liberty."
@@ -2289,7 +2289,7 @@ CA_BB_43_069: I am right glad I happened to be here.
 CA_BB_43_070: Where may I take you to, ma'am?"
 CA_BB_43_071: "To the Paddington Station, and then if we are in good time, and I think we shall be, you shall tell me all about Mary and the children."
 CA_BB_43_072: We got to the station in good time, and being under shelter the lady stood a good while talking to Jerry.
-CA_BB_43_073: I found she had been Polly's mistress, and after many inquiries about her she said
+CA_BB_43_073: I found she had been Polly's mistress, and after many inquiries about her she said: "How do you find the cab work suit you in winter?
 CA_BB_43_074: I know Mary was rather anxious about you last year."
 CA_BB_43_075: "Yes, ma'am, she was;
 CA_BB_43_076: I had a bad cough that followed me up quite into the warm weather, and when I am kept out late she does worry herself a good deal.
@@ -2467,11 +2467,11 @@ CA_BB_46_012: "Get on, you lazy fellow," he said, "or I'll make you."
 CA_BB_46_013: Again I started the heavy load, and struggled on a few yards; again the whip came down, and again I struggled forward.
 CA_BB_46_014: The pain of that great cart whip was sharp, but my mind was hurt quite as much as my poor sides.
 CA_BB_46_015: To be punished and abused when I was doing my very best was so hard it took the heart out of me.
-CA_BB_46_016: A third time he was flogging me cruelly, when a lady stepped quickly up to him, and said in a sweet, earnest voice
+CA_BB_46_016: A third time he was flogging me cruelly, when a lady stepped quickly up to him, and said in a sweet, earnest voice: "Oh! pray do not whip your good horse any more; I am sure he is doing all he can, and the road is very steep; I am sure he is doing his best."
 CA_BB_46_017: "If doing his best won't get this load up he must do something more than his best; that's all I know, ma'am," said Jakes.
 CA_BB_46_018: "But is it not a very heavy load?" she said.
 CA_BB_46_019: "Yes, yes, too heavy," he said; "but that's not my fault; the foreman came just as we were starting, and would have three hundredweight more put on to save him trouble, and I must get on with it as well as I can."
-CA_BB_46_020: He was raising the whip again, when the lady said
+CA_BB_46_020: He was raising the whip again, when the lady said: "Pray, stop; I think I can help you if you will let me."
 CA_BB_46_021: The man laughed.
 CA_BB_46_022: "You see," she said, "you do not give him a fair chance; he cannot use all his power with his head held back as it is with that bearing-rein;
 CA_BB_46_023: if you would take it off I am sure he would do better do try it," she said persuasively,
@@ -2553,7 +2553,7 @@ CA_BB_47_043: After some more cordial had been given me, and after one or two at
 CA_BB_47_044: Here I was put into a well-littered stall, and some warm gruel was brought to me, which I drank thankfully.
 CA_BB_47_045: In the evening I was sufficiently recovered to be led back to Skinner's stables, where I think they did the best for me they could.
 CA_BB_47_046: In the morning Skinner came with a farrier to look at me.
-CA_BB_47_047: He examined me very closely and said
+CA_BB_47_047: He examined me very closely and said: "This is a case of overwork more than disease, and if you could give him a run off for six months he would be able to work again; but now there is not an ounce of strength in him."
 CA_BB_47_048: "Then he must go to the dogs," said Skinner.
 CA_BB_47_049: "I have no meadows to nurse sick horses in he might get well or he might not; that sort of thing don't suit my business;
 CA_BB_47_050: my plan is to work 'em as long as they'll go, and then sell 'em for what they'll fetch, at the knacker's or elsewhere."
@@ -2649,11 +2649,11 @@ CA_BB_49_017: If you incline you can have him on trial, and then your coachman w
 CA_BB_49_018: "You have always been such a good adviser to us about our horses," said the stately lady, "that your recommendation would go a long way with me, and if my sister Lavinia sees no objection we will accept your offer of a trial, with thanks."
 CA_BB_49_019: It was then arranged that I should be sent for the next day.
 CA_BB_49_020: In the morning a smart-looking young man came for me.
-CA_BB_49_021: At first he looked pleased; but when he saw my knees he said in a disappointed voice
+CA_BB_49_021: At first he looked pleased; but when he saw my knees he said in a disappointed voice: "I didn't think, sir, you would have recommended my ladies a blemished horse like that."
 CA_BB_49_022: "'Handsome is that handsome does'," said my master; "you are only taking him on trial, and I am sure you will do fairly by him, young man.
 CA_BB_49_023: And if he is not as safe as any horse you ever drove send him back."
 CA_BB_49_024: I was led home, placed in a comfortable stable, fed, and left to myself.
-CA_BB_49_025: The next day, when the groom was cleaning my face, he said
+CA_BB_49_025: The next day, when the groom was cleaning my face, he said: "That is just like the star that 'Black Beauty' had; he is much the same height, too.
 CA_BB_49_026: I wonder where he is now."
 CA_BB_49_027: A little further on he came to the place in my neck where I was bled and where a little knot was left in the skin.
 CA_BB_49_028: He almost started, and began to look me over carefully, talking to himself.
@@ -2674,13 +2674,13 @@ CA_BB_49_042: Miss Ellen was going to try me, and Green went with her.
 CA_BB_49_043: I soon found that she was a good driver, and she seemed pleased with my paces.
 CA_BB_49_044: I heard Joe telling her about me, and that he was sure I was Squire Gordon's old "Black Beauty".
 CA_BB_49_045: When we returned the other sisters came out to hear how I had behaved myself.
-CA_BB_49_046: She told them what she had just heard, and said
+CA_BB_49_046: She told them what she had just heard, and said: "I shall certainly write to Mrs. Gordon, and tell her that her favorite horse has come to us. How pleased she will be!"
 CA_BB_49_047: After this I was driven every day for a week or so, and as I appeared to be quite safe, Miss Lavinia at last ventured out in the small close carriage.
 CA_BB_49_048: After this it was quite decided to keep me and call me by my old name of "Black Beauty".
 CA_BB_49_049: I have now lived in this happy place a whole year.
 CA_BB_49_050: Joe is the best and kindest of grooms.
 CA_BB_49_051: My work is easy and pleasant, and I feel my strength and spirits all coming back again.
-CA_BB_49_052: Mr. Thoroughgood said to Joe the other day
+CA_BB_49_052: Mr. Thoroughgood said to Joe the other day: "In your place he will last till he is twenty years old perhaps more."
 CA_BB_49_053: Willie always speaks to me when he can, and treats me as his special friend.
 CA_BB_49_054: My ladies have promised that I shall never be sold, and so I have nothing to fear; and here my story ends.
 CA_BB_49_055: My troubles are all over, and I am at home; and often before I am quite awake, I fancy I am still in the orchard at Birtwick, standing with my old friends under the apple-trees.

@@ -1,4 +1,14 @@
-apply plugin: 'base'
+buildscript {
+    repositories {
+        mavenLocal()
+        jcenter()
+    }
+    dependencies {
+        classpath group: 'de.dfki.mary', name: 'gradle-marytts-voicebuilding-plugin', version: '0.5.3-SNAPSHOT'
+    }
+}
+
+apply plugin: 'de.dfki.mary.voicebuilding'
 
 task copyWav(type: Copy) {
     from(project(':blizzard2013-data').projectDir) {

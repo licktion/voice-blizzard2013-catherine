@@ -83,4 +83,27 @@ project(':rawdata') {
         'default' group: 'lessac', name: 'BlackBeauty', version: 'blizzard2013', ext: 'zip'
         'default' group: 'lessac', name: 'Lessac_Blizzard2013_CatherineByers_train', version: 'blizzard2013', ext: 'tar.bz2'
     }
+
+    task unpack(type: Copy) {
+        from configurations.default
+        into projectDir
+        filesMatching '*.tar.bz2', { tarFileDetails ->
+            logger.info "Unpacking $tarFileDetails.file"
+            exec {
+                executable 'tar'
+                args '-xjkvf', tarFileDetails.file, '--strip-components', 3, 'train/segmented/wavn/CA-BB-*.wav'
+                workingDir destinationDir
+            }
+            tarFileDetails.exclude()
+        }
+        filesMatching '*.zip', { zipFileDetails ->
+            logger.info "Unpacking $zipFileDetails.file"
+            exec {
+                executable 'unzip'
+                args '-f', zipFileDetails.file
+                workingDir destinationDir
+            }
+            zipFileDetails.exclude()
+        }
+    }
 }

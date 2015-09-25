@@ -58,3 +58,29 @@ task extractTextFiles {
 task prepareVoicebuilding {
     dependsOn copyWav, copyPitch, copyLabels, extractTextFiles
 }
+
+project(':rawdata') {
+    apply plugin: 'base'
+
+    repositories {
+        flatDir {
+            dirs '/proj/marytts.shadow/blizzard2013',
+                    "$rootDir.parent/blizzard2013-data"
+        }
+//        ivy {
+//            url 'http://data.cstr.ed.ac.uk/'
+//            layout 'pattern', {
+//                artifact '[revision]/[organisation]/[module].[ext]'
+//            }
+//            credentials {
+//                user 'blizzard2013User'
+//                password 'blizzard2013Password'
+//            }
+//        }
+    }
+
+    dependencies {
+        'default' group: 'lessac', name: 'BlackBeauty', version: 'blizzard2013', ext: 'zip'
+        'default' group: 'lessac', name: 'Lessac_Blizzard2013_CatherineByers_train', version: 'blizzard2013', ext: 'tar.bz2'
+    }
+}

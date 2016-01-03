@@ -41,36 +41,11 @@ task extractWav(type: Copy) {
     }
 }
 
-task copyPitch(type: Copy) {
-    from(project(':blizzard2013-data').projectDir) {
-        include 'pm/*.Pitch'
-    }
+task copyTextAndLabels(type: Copy) {
+    from 'src/rawdata'
     into buildDir
-}
-
-task copyLabels(type: Copy) {
-    from(project(':blizzard2013-data').projectDir) {
-        include 'lab/*.lab'
-    }
-    into buildDir
-}
-
-task extractTextFiles {
-    def txtFile = file("src/raw/resources/all.txt")
-    def destDir = file("$buildDir/text")
-    outputs.dir destDir
-    inputs.files txtFile
-    doFirst {
-        destDir.mkdirs()
-    }
-    doLast {
-        txtFile.eachLine {
-            def (basename, content) = it.split(":", 2)
-            file("$destDir/${basename}.txt").text = content.trim()
-        }
-    }
 }
 
 task prepareVoicebuilding {
-    dependsOn copyWav, copyPitch, copyLabels, extractTextFiles
+    dependsOn extractWav, copyTextAndLabels
 }

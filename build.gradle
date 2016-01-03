@@ -27,16 +27,18 @@ dependencies {
     rawdata group: 'lessac', name: 'BlackBeauty', version: 'blizzard2013', ext: 'zip'
 }
 
-task copyWav(type: Copy) {
-    from(project(':blizzard2013-data').projectDir) {
-        include 'wav/*.wav'
-        rename {
-            def m = (it =~ /(.+-)(\d+)(\.wav)/)
-            assert m.matches(): it
-            sprintf("%s%03d%s", m[0][1], m[0][2] as int, m[0][3]).replaceAll('-', '_')
+task extractWav(type: Copy) {
+    from configurations.rawdata
+    into "$buildDir/wav"
+    filesMatching '*.zip', { zipFileDetails ->
+        logger.info "Unpacking $zipFileDetails.file"
+        copy {
+            from zipTree(zipFileDetails.file)
+            into destinationDir
+            eachFile { logger.lifecycle it.name }
         }
+        zipFileDetails.exclude()
     }
-    into buildDir
 }
 
 task copyPitch(type: Copy) {

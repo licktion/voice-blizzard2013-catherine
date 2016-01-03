@@ -13,6 +13,20 @@ buildscript {
 
 apply plugin: 'de.dfki.mary.voicebuilding'
 
+repositories {
+    flatDir {
+        dir '../blizzard2013-data'
+    }
+}
+
+configurations {
+    rawdata
+}
+
+dependencies {
+    rawdata group: 'lessac', name: 'BlackBeauty', version: 'blizzard2013', ext: 'zip'
+}
+
 task copyWav(type: Copy) {
     from(project(':blizzard2013-data').projectDir) {
         include 'wav/*.wav'

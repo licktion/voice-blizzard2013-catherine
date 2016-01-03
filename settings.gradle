@@ -1,1 +1,2 @@
 includeFlat 'blizzard2013-data'
+rootProject.name = 'voice-blizzard2013-catherine'

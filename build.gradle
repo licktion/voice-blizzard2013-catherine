@@ -60,3 +60,18 @@ generateVoiceConfig {
             'boundary.data' : "jar:/marytts/voice/$voice.nameCamelCase/bound.tree"
     ]
 }
+
+task generateBoundaryTrainingData {
+    dependsOn legacyDurationCARTTrainer
+    ext.dataFile = file("$buildDir/temp/bound.feats")
+    outputs.files dataFile
+    doLast {
+        dataFile.withWriter { data ->
+            legacyDurationCARTTrainer.destFile.eachLine { line ->
+                if (line =~ /^[\d.]+\s+_.+/) {
+                    data << line
+                }
+            }
+        }
+    }
+}

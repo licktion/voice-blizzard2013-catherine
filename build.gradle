@@ -51,3 +51,12 @@ task copyTextAndLabels(type: Copy) {
 task prepareVoicebuilding {
     dependsOn extractWav, copyTextAndLabels
 }
+
+generateVoiceConfig {
+    // TODO need a few more properties here:
+    config << [
+            acousticModels  : 'duration F0 midF0 rightF0 boundary',
+            'boundary.model': 'cart',
+            'boundary.data' : "jar:/marytts/voice/$voice.nameCamelCase/bound.tree"
+    ]
+}

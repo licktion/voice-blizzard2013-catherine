@@ -1,3 +1,12 @@
+buildscript {
+    repositories {
+        jcenter()
+    }
+    dependencies {
+        classpath 'de.dfki.mary:marytts-runtime:5.2-beta1'
+    }
+}
+
 apply plugin: 'de.dfki.mary.voicebuilding-legacy'
 
 voice {
@@ -86,5 +95,25 @@ task trainBoundaryCart {
         exec {
             commandLine = ['wagon', '-data', dataFile, '-desc', descFile, '-stop', 10, '-output', cartFile]
         }
+    }
+}
+
+import marytts.cart.*
+import marytts.cart.io.*
+import marytts.unitselection.data.*
+
+task convertBoundaryCartToMaryFormat {
+    dependsOn trainBoundaryCart, legacyPhoneFeatureFileWriter
+    def inFile = trainBoundaryCart.cartFile
+    def outFile = file("$legacyBuildDir/bound.tree")
+    outputs.files outFile
+    doLast {
+        def featureFile = "$legacyBuildDir/phoneFeatures.mry"
+        def featureDefinition = FeatureFileReader.getFeatureFileReader(featureFile).featureDefinition
+        def wagonCartReader = new WagonCARTReader(LeafNode.LeafType.FloatLeafNode)
+        def rootNode = wagonCartReader.load(new BufferedReader(new FileReader(inFile)), featureDefinition)
+        def cart = new CART(rootNode, featureDefinition)
+        def maryCartWriter = new MaryCARTWriter()
+        maryCartWriter.dumpMaryCART(cart, outFile)
     }
 }

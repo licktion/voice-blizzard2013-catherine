@@ -1,5 +1,20 @@
 apply plugin: 'de.dfki.mary.voicebuilding-legacy'
 
+voice {
+    name = 'blizzard2013-catherine'
+    language = 'en'
+    region = 'US'
+    gender = 'female'
+    type = 'unit selection'
+    description = 'TBA'
+    license {
+        name = 'foo'
+        shortName = 'foo'
+        url = 'bar'
+    }
+    samplingRate = 16000
+}
+
 repositories {
     flatDir {
         dir '../blizzard2013-data'

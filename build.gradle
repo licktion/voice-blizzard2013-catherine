@@ -117,3 +117,7 @@ task convertBoundaryCartToMaryFormat {
         maryCartWriter.dumpMaryCART(cart, outFile)
     }
 }
+
+processResources {
+    from convertBoundaryCartToMaryFormat
+}

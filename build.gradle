@@ -75,3 +75,16 @@ task generateBoundaryTrainingData {
         }
     }
 }
+
+task trainBoundaryCart {
+    dependsOn generateBoundaryTrainingData
+    def dataFile = file("$buildDir/temp/bound.feats")
+    def descFile = file("$buildDir/temp/dur.desc")
+    ext.cartFile = file("$buildDir/temp/bound.tree")
+    outputs.files cartFile
+    doLast {
+        exec {
+            commandLine = ['wagon', '-data', dataFile, '-desc', descFile, '-stop', 10, '-output', cartFile]
+        }
+    }
+}

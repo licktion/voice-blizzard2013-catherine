@@ -40,7 +40,7 @@ dependencies {
 
 task extractWav(type: Copy) {
     from configurations.rawdata
-    into "$buildDir/wav"
+    into "$buildDir/rawwav"
     filesMatching '*.zip', { zipFileDetails ->
         logger.info "Unpacking $zipFileDetails.file"
         copy {
@@ -52,14 +52,17 @@ task extractWav(type: Copy) {
     }
 }
 
+wav {
+    dependsOn extractWav
+    srcDir = file("$buildDir/rawwav")
+}
+
 task copyTextAndLabels(type: Copy) {
     from 'src/rawdata'
     into buildDir
 }
 
-task prepareVoicebuilding {
-    dependsOn extractWav, copyTextAndLabels
-}
+legacyInit.dependsOn wav, copyTextAndLabels
 
 generateVoiceConfig {
     // TODO need a few more properties here:

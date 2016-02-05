@@ -46,6 +46,7 @@ task extractWav(type: Copy) {
         copy {
             from zipTree(zipFileDetails.file)
             into destinationDir
+            rename { it.replaceAll ' ', '_' }
             eachFile { logger.lifecycle it.name }
         }
         zipFileDetails.exclude()

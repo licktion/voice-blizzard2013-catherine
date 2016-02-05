@@ -82,7 +82,7 @@ task generateBoundaryTrainingData {
         dataFile.withWriter { data ->
             durDataFile.eachLine { line ->
                 if (line =~ /^[\d.]+\s+_.+/) {
-                    data << line
+                    data.writeLine line
                 }
             }
         }

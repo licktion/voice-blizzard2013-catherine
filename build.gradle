@@ -75,11 +75,12 @@ generateVoiceConfig {
 
 task generateBoundaryTrainingData {
     dependsOn legacyDurationCARTTrainer
+    def durDataFile = file("$buildDir/temp/dur.feats")
     ext.dataFile = file("$buildDir/temp/bound.feats")
     outputs.files dataFile
     doLast {
         dataFile.withWriter { data ->
-            legacyDurationCARTTrainer.destFile.eachLine { line ->
+            durDataFile.eachLine { line ->
                 if (line =~ /^[\d.]+\s+_.+/) {
                     data << line
                 }

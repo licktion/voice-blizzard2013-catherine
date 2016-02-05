@@ -118,7 +118,7 @@ task convertBoundaryCartToMaryFormat {
         def rootNode = wagonCartReader.load(new BufferedReader(new FileReader(inFile)), featureDefinition)
         def cart = new CART(rootNode, featureDefinition)
         def maryCartWriter = new MaryCARTWriter()
-        maryCartWriter.dumpMaryCART(cart, outFile)
+        maryCartWriter.dumpMaryCART(cart, outFile.path)
     }
 }
 

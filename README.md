@@ -29,12 +29,7 @@ $ git submodule update --init
 
 ## Building the voice
 
-First, prepare the raw data:
-```
-$ ./gradlew prepareVoicebuilding
-```
-
-Then, initialize the legacy voicebuilding project layout:
+First, process the raw data and initialize the legacy voicebuilding project layout:
 ```
 $ ./gradlew legacyInit
 ```

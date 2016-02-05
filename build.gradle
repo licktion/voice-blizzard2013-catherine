@@ -66,12 +66,15 @@ task copyTextAndLabels(type: Copy) {
 legacyInit.dependsOn wav, copyTextAndLabels
 
 generateVoiceConfig {
-    // TODO need a few more properties here:
-    config << [
-            acousticModels  : 'duration F0 midF0 rightF0 boundary',
-            'boundary.model': 'cart',
-            'boundary.data' : "jar:/marytts/voice/$voice.nameCamelCase/bound.tree"
-    ]
+    afterEvaluate {
+        config << [
+                acousticModels      : 'duration F0 midF0 rightF0 boundary',
+                'boundary.model'    : 'cart',
+                'boundary.data'     : "jar:/marytts/voice/$voice.nameCamelCase/bound.tree",
+                'boundary.attribute': 'duration',
+                'boundary.applyTo'  : 'boundaries'
+        ]
+    }
 }
 
 task generateBoundaryTrainingData {

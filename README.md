@@ -6,18 +6,18 @@ The file `BlackBeauty.zip` must exist in the data directory.
 
 ## Prerequisites
 
-`praat`, `ch_track`, and `wagon` must be on the `PATH`.
-If this is not the case, install Praat and the Edinburgh Speech Tools
+`praat`, `sox`, `ch_track`, and `wagon` must be on the `PATH`.
+If this is not the case, install Praat, Sox, and the Edinburgh Speech Tools
 
 ### OSX with Homebrew and Cask:
 ```
-$ brew cask install praat
+$ brew cask install praat sox
 $ brew install speech-tools
 ```
 
 ### Linux (Debian, Ubuntu, etc.):
 ```
-$ sudo apt-get install praat speech-tools
+$ sudo apt-get install praat sox speech-tools
 ```
 
 The Gradle voicebuilding plugin is resolved from the `buildSrc`, which is a Git submodule.

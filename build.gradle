@@ -85,8 +85,10 @@ task generateBoundaryTrainingData {
     doLast {
         dataFile.withWriter { data ->
             durDataFile.eachLine { line ->
-                if (line =~ /^[\d.]+\s+_.+/) {
-                    data.writeLine line
+                def (duration, label, rest) = line.split('\\s+', 3)
+                if (label == '_') {
+                    duration = (duration as float) * 1000
+                    data.writeLine "$duration $label $rest"
                 }
             }
         }

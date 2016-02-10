@@ -68,11 +68,12 @@ legacyInit.dependsOn wav, copyTextAndLabels
 generateVoiceConfig {
     afterEvaluate {
         config << [
-                acousticModels      : 'duration F0 midF0 rightF0 boundary',
-                'boundary.model'    : 'cart',
-                'boundary.data'     : "jar:/marytts/voice/$voice.nameCamelCase/bound.tree",
-                'boundary.attribute': 'duration',
-                'boundary.applyTo'  : 'boundaries'
+                acousticModels             : 'duration F0 midF0 rightF0 boundary',
+                'boundary.model'           : 'cart',
+                'boundary.data'            : "jar:/marytts/voice/$voice.nameCamelCase/bound.tree",
+                'boundary.attribute'       : 'duration',
+                'boundary.attribute.format': '%.0f',
+                'boundary.applyTo'         : 'boundaries'
         ]
     }
 }
@@ -130,8 +131,4 @@ task convertBoundaryCartToMaryFormat {
 
 processResources {
     from convertBoundaryCartToMaryFormat
-}
-
-run {
-    systemProperty 'maryxml.validate.input', false
 }

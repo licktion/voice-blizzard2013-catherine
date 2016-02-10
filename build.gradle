@@ -131,3 +131,7 @@ task convertBoundaryCartToMaryFormat {
 processResources {
     from convertBoundaryCartToMaryFormat
 }
+
+run {
+    systemProperty 'maryxml.validate.input', false
+}
